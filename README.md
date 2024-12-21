@@ -215,6 +215,9 @@
 
 · 《二进制分析实战》【荷】Dennis Andriesse
 
+## 免杀技术
+· 《黑客免杀攻防》 
+· 《杀不死的秘密：反汇编揭露黑客免杀变种技术》
 ## Web安全
 · 《黑客攻防技术宝典：Web实战篇》【美】Marcus Pinto，Dafydd Stuttard
 
